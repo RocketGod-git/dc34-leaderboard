@@ -1,1 +1,1 @@
-{"finishers": [{"rank": 1, "alias": "TEST-DEMO", "timestamp": 1784410482, "finishedAt": "2026-07-18T21:34:42Z", "platform": "android-demo", "demo": true}], "updated": "2026-07-18T21:34:42Z"}
+{"finishers":[{"timestamp":1784410482,"finishedAt":"2026-07-18T21:34:42Z","platform":"android-demo","alias":"TEST-DEMO","rank":1,"demo":true},{"demo":true,"timestamp":1784410996,"rank":2,"platform":"ios","alias":"2nd ios guy","finishedAt":"2026-07-18T21:43:16Z"}],"updated":"2026-07-18T21:43:16Z"}
